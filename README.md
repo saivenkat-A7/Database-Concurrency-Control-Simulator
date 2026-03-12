@@ -68,12 +68,7 @@ graph TD
 
 ## How to Test
 
-### Automated Tests (Jest)
-To run the programmatic suite of checks confirming API behavior against out of stock conditions:
-```bash
-npm install
-npm test
-```
+
 
 ### Manual Concurrency Scripts
 Make the bash scripts executable first:
