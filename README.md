@@ -40,8 +40,7 @@ graph TD
 ├── package.json           # Node project metadata and dependencies
 ├── seeds/                 # Initialization scripts
 │   └── init.sql           # Database schema and mock data
-└── tests/                 # Supertest API tests
-    └── app.test.js        # Test cases for locking systems
+
 ```
 
 ## Prerequisites
